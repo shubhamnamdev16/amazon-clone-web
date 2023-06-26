@@ -1,0 +1,30 @@
+.home_banner .banner_carousel {
+  margin-bottom: -23%;
+}
+.home_banner .banner_carousel .carousel-inner {
+  z-index: -2;
+}
+.home_banner .banner_carousel .carousel-control-prev {
+  height: 280px;
+  width: 100px;
+}
+.home_banner .banner_carousel .carousel-control-prev .prev-icon {
+  color: black;
+}
+.home_banner .banner_carousel .carousel-control-prev .prev-icon .left_arrow {
+  font-size: 42px;
+}
+.home_banner .banner_carousel .carousel-control-next {
+  height: 280px;
+  width: 100px;
+}
+.home_banner .banner_carousel .carousel-control-next .next-icon {
+  color: black;
+}
+.home_banner .banner_carousel .carousel-control-next .next-icon .right_arrow {
+  font-size: 42px;
+}
+.home_card_container .home_row .home_row_wrap {
+  display: flex;
+  justify-content: space-evenly;
+}
